@@ -1,0 +1,11 @@
+For termux 
+Use this type of code
+
+Pkg update
+Pkg install python
+Pkg install python2
+git clone https://github.com/Rudraroyal/speed-y.git
+ls
+cd.TBomb.sh
+ls
+./Tbomb.sh
